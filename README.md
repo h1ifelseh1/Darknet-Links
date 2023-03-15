@@ -118,6 +118,7 @@
 
 | Market | URL |
 | --- | --- |
+| Paypal Money | [http://3637gxar5sbj7625i7az4wxw4rsmmygr3ze2mbie2p35syz7yudfadyd.onion/html/index.html) |
 | ASAP | [asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion) |
 | Apple World | [olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion](http://olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion) |
 | Aurora | [aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion](http://aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion) |

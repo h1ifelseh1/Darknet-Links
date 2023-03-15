@@ -40,7 +40,7 @@
 
 | Wiki | URL |
 | --- | --- |
-| Hidden Wiki | [wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion](http://wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion) |
+| Hidden Wiki | http://5qqbpsdz3nlqp2hyvwy5gj3om2riaquekh7e3y5tcbjinhoys6tu5iqd.onion/html/Home.html |
 | Bitcoin Wiki | [bitcoin.it](https://bitcoin.it) |
 
 ## Bitcoin
@@ -58,7 +58,7 @@
 | Hacking | URL |
 | --- | --- |
 | Tails | [tails.boum.org](https://tails.boum.org) |
-| Qubes OS | [qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) |
+| Qubes OS | [http://l2fmhw6fgvs7qnnjzvo75i4wqoiw7aumoqsa2tbr3bx3xu4mqvunrwad.onion/Home.html) |
 | Whonix | [dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion) |
 | Debian | [5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion](http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion) |
 | Hardened BSD | [lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion](http://lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion) |
